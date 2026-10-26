@@ -22,7 +22,7 @@ menu:
       url: presentations/
       weight: 3
     - name: CV
-      url: cv/
+      url: cv.pdf
       weight: 4
 
 params:
@@ -72,7 +72,7 @@ params:
       - name: Presentations
         url: presentations/
       - name: CV
-        url: cv/
+        url: cv.pdf
       - name: Tags
         url: tags/
 
