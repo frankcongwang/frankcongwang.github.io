@@ -1,6 +1,5 @@
 ---
 title: "Revisiting the fermion sign problem from the structure of Lee-Yang zeros. III. Re-weighted simulation and identification of zeros"
-date: 2026-09-15
 weight: 1
 tags: ["fermion sign problem","Lee-Yang zeros","path integral molecular dynamics","indistinguishable particles"]
 author: ["Cong Wang<sup>†</sup>","He<sup>†</sup>","Zeng","Yang","Ye*","Li*"]

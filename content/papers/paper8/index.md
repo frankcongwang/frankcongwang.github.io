@@ -1,6 +1,5 @@
 ---
 title: "Application of the generalized fourth-order decomposition schemes to perturbed path integral"
-date: 2026-08-01
 weight: 8
 tags: ["path integral molecular dynamics","fourth-order decomposition","perturbed path integral"]
 author: ["Cong Wang","Zhang","Liu*","Shao*"]

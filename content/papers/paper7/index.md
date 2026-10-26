@@ -1,6 +1,5 @@
 ---
 title: "An efficient algorithm for the fourth-order decomposition for path integral molecular dynamics"
-date: 2026-07-01
 weight: 7
 tags: ["path integral molecular dynamics","fourth-order decomposition"]
 author: ["Cong Wang","Zhang","Liu*","Shao*"]
