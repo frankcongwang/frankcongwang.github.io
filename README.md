@@ -20,7 +20,7 @@ I work on path integral molecular dynamics (PIMD) — developing algorithms that
 2. He†, Zeng†, Yang, **Wang***, Ye*, Li*, *Revisiting the fermion sign problem from the structure of Lee-Yang zeros. II. Finite temperature results and continuation on the complex plane* — [arXiv:2606.07415](https://arxiv.org/abs/2606.07415), submitted to Phys. Rev. E
 3. He†, Zeng†, Yang, **Wang***, Ye*, Li*, *Revisiting the fermion sign problem from the structure of Lee-Yang zeros. I. The form of the partition function for anyons and its zeros at 0 K*, **Phys. Rev. E** 113, 024115 (2026)
 4. Liang†, Wang†, **Wang**†, Wang, She, Wang, Shao, Liu*, *An efficient integrator scheme for sampling the (quantum) isobaric–isothermal ensemble in (path integral) molecular dynamics simulations*, **J. Chem. Theory Comput.** 21, 6394 (2025)
-5. **Wang**†, Zhang†, Liu*, Shao*, *Generalized fourth-order decompositions of imaginary time path integral: Implications of the harmonic oscillator*, **Chin. J. Chem. Phys.** 35, 516 (2022)
+5. **Wang**, Zhang, Liu*, Shao*, *Generalized fourth-order decompositions of imaginary time path integral: Implications of the harmonic oscillator*, **Chin. J. Chem. Phys.** 35, 516 (2022)
 6. Li, Han, Chai, **Wang**, Zhang, Chen, Liu*, Shao*, *Stationary state distribution and efficiency analysis of the Langevin equation via real or virtual dynamics*, **J. Chem. Phys.** 147, 184104 (2017)
 7. **Wang**, Zhang, Liu*, Shao*, *An efficient algorithm for the fourth-order decomposition for path integral molecular dynamics* — in preparation
 8. **Wang**, Zhang, Liu*, Shao*, *Application of the generalized fourth-order decomposition schemes to perturbed path integral* — in preparation
